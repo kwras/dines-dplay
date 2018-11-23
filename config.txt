@@ -1,6 +1,6 @@
-﻿token=NTE1MDY1MDE3NzE2OTY1Mzk3.DtfrPA.UzQ78x-tK-i8zjkqy2TLMS29D9c
+token=NTE1NTk0NDg5MTcyMzI4NDY4.DtnYVA.1D5JpbyonU1gfjRVlkAxlR3HZqk
 owner=506211849100984320
-prefix= 1
-game= 1help
+prefix= C
+game= Chelp
 stayinchannel=true 
 songinstatus=true 
